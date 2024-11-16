@@ -86,5 +86,5 @@ Rideright is a robust **Car Management System** built using the **MERN stack** w
 
 #### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/rideright-car-management-system.git
+git clone https://github.com/your-username/rideright-car-management-system.git](https://github.com/shivamy63/RideRight_car_manage_sysytem.git
 cd rideright-car-management-system
